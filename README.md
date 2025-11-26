@@ -21,12 +21,13 @@ Handles special characters in skills like C++, C#, and multi-word skills.
 Easy to integrate with ATS or other HR applications.
 
 Project Structure
+
 resume-skills-extractor/
 │
-├─ server.js            # Main Node.js server file
-├─ package.json         # Project dependencies and scripts
-├─ .env                 # Environment variables (GEMINI_API_KEY)
-└─ README.md            # Project documentation
+├─ server.js            
+├─ package.json         
+├─ .env                 
+└─ README.md           
 
 Functionality
 
