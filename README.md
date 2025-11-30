@@ -13,3 +13,4 @@ Main Functions
 • Alerts users if the PDF is scanned, password-protected, or invalid.
 • Validates file type and backend availability.
         
+<img width="1408" height="735" alt="Screenshot 2025-11-27 164429" src="https://github.com/user-attachments/assets/03166024-84c6-48cb-8e1d-d26744bc195b" />
