@@ -12,17 +12,4 @@ Skill Extraction: Sends parsed resume text to a local backend endpoint (http://l
 Error Handling: 
 Alerts users if the PDF is scanned, password-protected, or invalid.
 Validates file type and backend availability.
-
-
-resume-skills-extractor/
-├── public/
-│   └── pdf.worker.min.js          # Required Web Worker for pdfjs-dist
-├── src/
-│   └── App.js                     # Main component containing:
-│                                   # - PDF upload & parsing logic
-│                                   # - Text input handling
-│                                   # - Skill extraction via Axios
-│                                   # - UI rendering with Tailwind CSS
-├── package.json
-└── README.md
         
